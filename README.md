@@ -20,9 +20,11 @@ import { getCurrentQuertar } from "calculate-date";
 
 ### 使用效果图如下
 
-<img src="https://github.com/laurus-tech/calculate-date/blob/master/public/images/allFuncs.png" alt='效果图' />
+<img src="https://raw.githubusercontent.com/laurus-tech/calculate-date/master/public/images/allFuncs.png" alt='效果图' />
 
-<img src="https://github.com/laurus-tech/calculate-date/blob/master/public/images/dateUtilsFuncs.png" alt='效果图' />
+<br />
+
+<img src="https://raw.githubusercontent.com/laurus-tech/calculate-date/master/public/images/dateUtilsFuncs.png" alt='效果图' />
 
 # Functions
 
