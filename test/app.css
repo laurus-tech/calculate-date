@@ -1,0 +1,46 @@
+table {
+    border-collapse: collapse;
+}
+
+table th,
+table td {
+    border-top: 1px solid #e8e8e8;
+    padding: 10px 20px;
+    /* min-width: 200px; */
+    text-align: left;
+    font-size: 14px;
+    white-space: nowrap;
+    font-family: Chinese Quote, -apple-system, BlinkMacSystemFont, Segoe UI, PingFang SC, Hiragino Sans GB, Microsoft YaHei,
+        Helvetica Neue, Helvetica, Arial, sans-serif, Apple Color Emoji, Segoe UI Emoji, Segoe UI Symbol;
+}
+
+code {
+    font-family: Chinese Quote, -apple-system, BlinkMacSystemFont, Segoe UI, PingFang SC, Hiragino Sans GB, Microsoft YaHei,
+        Helvetica Neue, Helvetica, Arial, sans-serif, Apple Color Emoji, Segoe UI Emoji, Segoe UI Symbol;
+    font-style: italic;
+}
+
+table th:first-child,
+table td:first-child {
+    border-left: 1px solid #e8e8e8;
+}
+
+table th:last-child,
+table td:last-child {
+    border-right: 1px solid #e8e8e8;
+}
+
+table th {
+    background: #fdf5de;
+    font-weight: normal;
+    font-style: oblique;
+}
+
+table tr:last-child {
+    border-bottom: 1px solid #e8e8e8;
+}
+
+hr {
+    border: none;
+    border-top: 1px solid #fdf5de;
+}
