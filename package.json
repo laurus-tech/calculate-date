@@ -1,6 +1,6 @@
 {
     "name": "calculate-date",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "description": "js awesome calculate date",
     "main": "dist/bundle.js",
     "files": [
